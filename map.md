@@ -1,6 +1,6 @@
 layout: page
 title: A map I made for Rock-cut
-excerpt: "mapping"
+excerpt: "map"
 menutitle: map
 menuorder: 5
 
