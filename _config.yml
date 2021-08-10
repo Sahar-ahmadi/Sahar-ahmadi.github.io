@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title:
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
