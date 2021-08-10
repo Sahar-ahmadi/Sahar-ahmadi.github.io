@@ -1,8 +1,10 @@
+---
 layout: page
 title: A map I made for Rock-cut
 excerpt: "mapping"
 menutitle: map
 menuorder: 5
+---
 
 
 You can view my map at UMap [here](https://umap.openstreetmap.fr/en/map/rock-cut_645301#6/33.842/49.801)
