@@ -8,7 +8,7 @@ By using this template you will have a website that is well designed, easy to ma
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
 
 ## Migrating to a new default branch name
-We've decided to change this project's default branch name to 'main'.  If you've forked this repository prior to July 20th, 2021, then you should a message with update instructions when you go to your fork in github: 
+We've decided to change this project's default branch name to 'main'.  If you've forked this repository prior to July 20th, 2021, then you should a message with update instructions when you go to your fork in github:
 
 ![fork renamed message](https://user-images.githubusercontent.com/3514165/126372022-ae4c07fa-dec7-427c-a4b5-cdd73aec75eb.png)
 
