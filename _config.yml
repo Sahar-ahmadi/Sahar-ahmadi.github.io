@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title:Sahar Ahmadinezhad
+title: Sahar Ahmadinezhad
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Sahar Ahmadinezhad
+  name: Sahar ahmadi
   avatar: sahar Ahmadinezhad.jpeg
   bio: "Ph.D. student in the Preservation of Architectural Heritage "
   email: #emailaddress
