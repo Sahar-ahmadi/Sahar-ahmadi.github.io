@@ -9,5 +9,6 @@ This map includes an activity for geocoding of historical photos on a map of Ira
 You can view my map at Qgis map [here] (file:///Users/saharahmadi/Documents/GitHub/World%20heritage/index.html#5/39.504/52.954)
 
 Or insert an iframe
+<iframe src="https://Sahar-ahmadi/Sahar-ahmadi.github.io/blob/main/World%20heritage/index.html" width="100%" height="800"></iframe>
 
-<iframe src="https://Sahar-ahmadi.github.io/blob/main/World%20heritage/index.html/" width="100%" height="800"></iframe>
+
