@@ -10,4 +10,4 @@ You can view my map at Qgis map [here] (file:///Users/saharahmadi/Documents/GitH
 
 Or insert an iframe
 
-<iframe src="https://Sahar-ahmadi.github.io/Documents/GitHub/World%20heritage/index.html#5/ width="100%" height="800"></iframe>
+<iframe src="https://Sahar-ahmadi.github.io/Documents/GitHub/World%20heritage/index.html#5/39.504/52.954/ width="100%" height="800"></iframe>
