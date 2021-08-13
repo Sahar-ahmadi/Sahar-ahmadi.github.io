@@ -1,11 +1,11 @@
 ---
 layout: page
-title: A map I made for Rock-cut
+title: Rock-cut Umap
 excerpt: "mapping"
-menutitle: map
-menuorder: 5
+menutitle: Umap
+menuorder: 2
 ---
-
+An example of georeferencing rock-cut heritage sites in the Umap environment.
 
 You can view my map at UMap [here](https://umap.openstreetmap.fr/en/map/rock-cut_645301#6/33.842/49.801)
 
